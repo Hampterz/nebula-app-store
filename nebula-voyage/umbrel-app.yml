@@ -4,7 +4,7 @@ name: Voyage
 tagline: All-in-one AI trip planner, itinerary viewer, and trip sharing
 icon: https://raw.githubusercontent.com/Hampterz/nebula-voyage/main/public/icon.svg
 category: Social
-version: "1.4.0"
+version: "1.4.1"
 port: 7080
 description: >-
   Voyage is an all-in-one trip planner and itinerary manager for Umbrel. Plan trips with local Ollama or Google Gemini (gemini-3.8-flash) with live web search, manage flights, hotels, activities, and packing lists. View your journey on an interactive day-by-day timeline with one-click Google Maps directions, and share your plans with anyone via secret links or offline downloads.
@@ -18,7 +18,7 @@ support: https://github.com/Hampterz/nebula-voyage/issues
 gallery:
   - https://raw.githubusercontent.com/Hampterz/nebula-voyage/main/public/icon.svg
 releaseNotes: >-
-  Real liquid glass WebGL shader optics, chromatic aberration displacement filter, sweeping specular caustics shine, 100% free OpenStreetMap dark basemap, and one-click travel plan import & conversion.
+  Real liquid glass WebGL shader optics bound to UI panels with dynamic refraction, caustics, and specular cursor glint. Added dark ocean rippling water wallpaper and removed fake milky CSS overlays.
 dependencies: []
 path: ""
 defaultUsername: ""

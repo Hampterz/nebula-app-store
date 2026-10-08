@@ -13,6 +13,7 @@ services:
     init: true
     volumes:
       - ${APP_DATA_DIR}/data:/data
+      - ${APP_DATA_DIR}/public:/app/public
     environment:
       PORT: 3000
       DATA_DIR: /data
