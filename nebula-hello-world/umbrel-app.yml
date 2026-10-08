@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: nebula-hello-world
+name: Hello World
+tagline: Hello World example app
+icon: https://svgur.com/i/mvA.svg
+category: Development
+version: "1.0.0"
+port: 4000
+description: >-
+  A simple Hello World demonstration application for the Nebula App Store.
+
+developer: Nebula
+website: https://github.com/Hampterz/nebula-app-store
+submitter: Nebula
+submission: https://github.com/Hampterz/nebula-app-store
+repo: https://github.com/Hampterz/nebula-app-store
+support: https://github.com/Hampterz/nebula-app-store/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Initial release.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
